@@ -1,3 +1,6 @@
+/*
+    This example program shows an algorithm drived from Shoelace formula to find the area of any irregular Polygon.
+*/
 
 #include <iostream>
 #include <cstdlib>
